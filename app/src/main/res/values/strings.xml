@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIArt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Terms_of_Use"><u>Terms of Use</u></string>
+    <string name="Restore_Purchase"><u>Restore Purchase</u></string>
+    <string name="Privacy_Policy"><u>Privacy Policy</u></string>
+    <string name="Enter_Prompt"><b>Enter</b> Prompt</string>
+</resources>
